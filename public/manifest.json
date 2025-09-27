@@ -1,0 +1,26 @@
+{
+  "version": "2025-09-26",
+  "images": [
+    {
+      "id": "001",
+      "country": "Austria",
+      "w": 1920,
+      "h": 1080,
+      "url": "/images/austria.png"
+    },
+    {
+      "id": "002",
+      "country": "Greece",
+      "w": 1920,
+      "h": 1080,
+      "url": "/images/greece.png"
+    },
+    {
+      "id": "003",
+      "country": "Iceland",
+      "w": 1920,
+      "h": 1080,
+      "url": "/images/iceland.png"
+    }
+  ]
+}
